@@ -15,3 +15,5 @@ The Elbow Method technique is used which is  used to determine the optimal numbe
 2. Plot the WCSS vs. K
 3. Identify the elbow point.
    
+# CONCLUSION
+Target Cluster should be cluster 1 which has high spending score and high income.
